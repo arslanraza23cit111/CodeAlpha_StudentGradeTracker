@@ -2,8 +2,6 @@
 
 A modern JavaFX application for tracking student grades with beautiful UI animations and visual effects.
 
-![Application Screenshot](screenshot.png) *(Replace with actual screenshot)*
-
 ## Features 🌟
 
 - **Glass Morphism UI**: Sleek, modern interface with translucent panels and gradient effects
